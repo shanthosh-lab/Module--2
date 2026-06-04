@@ -46,7 +46,7 @@ for i in range (2,n):
 ```
 ### OUTPUT
 ```
-![Screenshot 2025-04-28 153614](https://github.com/user-attachments/assets/1486a7e3-e562-48f5-bdef-0787308a61c8)
+![Screenshot 2025-04-28 153614](https://github.com/user-attachments/assets/1486a7e3-e562-48f5-bdef-0787308a61c8) 
 
 ```
 ### RESULT
